@@ -1,5 +1,5 @@
 '''
-* logic for this code is that i observe from obser from our currency notations is
+* logic for this code is that i observe from our currency notations is
 * we have three types in indian currency numbers
 first one is.. for 100 and below we doest use any comma(notations)
 * second is if the number is even if it is 1000,100000,1000000 the output shoud be (1,)(000) (1,)00,(000)... so
